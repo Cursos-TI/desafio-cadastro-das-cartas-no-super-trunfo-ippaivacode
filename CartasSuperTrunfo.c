@@ -2,7 +2,7 @@
 
 int main() {
     // Declarando variáveis
-    char estado1[2],estado2[2];                             
+    char estado1[2],estado2[2];                             // Armazena a letra do estado
     char codigo1[5],codigo2[5];                             // Código da Carta Àte 4 Caracteres ex.( A01)
     char nome1[50],nome2[50];                               // Nome da cidade ( Permite Espaços)
     float area1,area2,pib1,pib2;                            // Área em km² e PIB em Bilhões de Reais
