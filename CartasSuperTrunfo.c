@@ -46,8 +46,8 @@ int main() {
     printf("Área: %.2f km²\n", area1);  // %.2f" mantém duas casas decimais)
     printf("PIB: %.2f bilhões de reais\n",pib1);
     printf("Pontos turísticos: %d\n", pontos_turisticos1);
-    printf("PIB per capta: %f\n", pibpercapta1);
-    printf("Densidade Populacional: %f\n\n", densidade1);
+    printf("PIB per capta: %f Reais\n", pibpercapta1);
+    printf("Densidade Populacional: %f hab/km²\n\n", densidade1);
 
 
     // Entrada de dados
@@ -86,8 +86,8 @@ int main() {
     printf("Área: %.2f km²\n", area2);  // %.2f" mantém duas casas decimais)
     printf("PIB: %.2f bilhões de reais\n",pib2);
     printf("Pontos turísticos: %d\n", pontos_turisticos2);
-    printf("PIB per capta: %f\n", pibpercapta2);
-    printf("Densidade Populacional: %f\n", densidade2);
+    printf("PIB per capta: %f Reais\n", pibpercapta2);
+    printf("Densidade Populacional: %f hab/km²\n\n", densidade2);
 
     return 0;
 }
